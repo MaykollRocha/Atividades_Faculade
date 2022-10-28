@@ -1,0 +1,7 @@
+O trabalho abaixo foi feito todo no codeblock e em um computador do windowns qualquer problema apresentar pode ser por onde esta usando para compilar o codigo.
+O aquivo txt.txt aqui é o arquivo explemplo de como ele roda apresnta 3 valores um em baixo do outro sendo:
+//tamanho da cache
+//palavra
+//linha/conjunto
+
+No trabalho se escolhe o tipo de mapeamento.O resto ta esplicando la.
