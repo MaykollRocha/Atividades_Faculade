@@ -1,0 +1,8 @@
+Há 3 trabalho;
+oque não esta em nenhuma pasta:
+ele ta mais completo tem um menu com cada um dos 5 exercicios separados todas as funções esta no .h e o .c é feito so de entradas. No ponto .h as funções estão separadas para cada um das 5 on da comentarios as separadando e as que uso nos 3 tbem ta presente.
+trabalho mais resumido:
+é o trabalho dividido por encadeamento ele faz os 5 exercícios e divide por encademento simplemente encadeada(SE),Duplamente Encadeada(DE) e Simplesmente Encadeada Circular(SEC).O .c tem os menu e a .h as funções comentadas.As funções podem estar diferente das funções apresentadas no trabalho fora da pasta.
+extra:
+um trabalho onde pode entrar com qualquer tipo de dados são ciruculares os dois um é simplesmente encadeada outro é duplamente encadeada e sua remoção é como pilha ou como fila.
+OBS: se não conseguir entender muito bem o que esta fora das pasta usa o mais resumido que ele faz as mesmas coisas so que esta melhor pq tentei fazer os mesmo mais simplisficado.
