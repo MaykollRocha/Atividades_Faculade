@@ -1,0 +1,5 @@
+ls <pasta> : lista as Subpastas e arq dentro da pasta
+cd <pasta> : entra em uma pasta determinada
+cd..       : Volta pra pasta incial
+mk <pasta> : cria uma subpasta
+rm <pasta> : remove a pasta
