@@ -1,0 +1,30 @@
+ { "titulo": "Memoria Cache",
+    "info": {
+        "materia": "Arquitetura e Organização de Computadores",
+        "data": "Setembro de 2022",
+        "local": "UFGD - Universidade Federal da Grande Dourados",
+        "professor": "Rodrigo Porfírio da Silva Sacchi",
+        "nota": "7.0",
+    },
+    "descricao": """A ideia do projeto é implementar os três tipos de mapeamento de memória cache: Direto, Associativo por Conjunto e Totalmente Associativo. O programa recebe um arquivo .txt e permite escolher entre os três tipos de mapeamento. Você insere uma cadeia binária, e ele verifica se há espaço na memória cache.  
+        Embora o funcionamento seja simples, sua construção como um todo é bastante complexa.  
+        As imagens do mapeamento faz referencia a STALLINGS, William. Arquitetura e organização de computadores. 8. ed. São Paulo: Pearson, 2010. p. 86-116, imagens de mapeamentos.""",
+    "imag": [
+        {
+            "nome": "mapeamento_direto.png",
+            "rodape": "Mapeamento Direto",
+        },
+        {
+            "nome": "mapeamento_associativo.png",
+            "rodape": "Mapeamento Associativo",
+        },
+        {
+            "nome": "mapeamento_associativo_por_conjunto.png",
+            "rodape": "Mapeamento Associativo por Conjunto",
+        },
+    ],
+    "codigos": None,
+    "agregamento": """Foi um trabalho que levou dois meses para ser concluído, e terminei apenas na última hora. Apesar da baixa nota, tenho muito carinho por esse projeto. Ainda me lembro de sonhar com maneiras de desenvolvê-lo. Hoje, como muitos dos meus primeiros projetos, eu teria uma metodologia muito melhor para desenvolvê-los. No entanto, é gratificante ver essa evolução, pois enriquece meu portfólio. Tanto esse quanto o da matriz esparsa foram feitos na mesma época. Os projetos das threads e do MPI foram realizados nos anos seguintes.""",
+    "Link": "https://github.com/MaykollRocha/Atividades_Faculade/tree/main/Arquitetura_Mapeamentos"
+    }
+    
